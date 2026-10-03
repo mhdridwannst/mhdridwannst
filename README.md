@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header"/>
+<img width="100%" src="https://vercel.app"/>
+
 
 # Mhd. Ridwan
 **Telecommunication Engineering Student · Electronic Engineering Polytechnic Institute of Surabaya
