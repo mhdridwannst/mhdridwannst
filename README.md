@@ -1,11 +1,4 @@
-<div align="center">
-
-<div align="center">
-  <img width="100%" src="https://vercel.app"/>
-  <h1>Mhd. Ridwan</h1>
-</div>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5BC0BE,30:3A506B,70:1C2541,100:0B132B&height=120&section=footer"/>
 
 # Mhd. Ridwan
 **Telecommunication Engineering Student · Electronic Engineering Polytechnic Institute of Surabaya
