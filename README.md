@@ -30,6 +30,6 @@ I believe in learning by doing: shipping real projects, understanding core mecha
 
 - **Location**: Surabaya, Indonesia
 - **Education**: Applied Bachelor's in Telecommunication Engineering at PENS
-- **Focus Areas**: Software Development, Cybersecurity & Computer Networking
+- **Focus Areas**: Software Development, Cybersecurity & Networking
 
 ---
